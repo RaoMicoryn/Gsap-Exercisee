@@ -55,9 +55,9 @@ Stay tuned — something cool is in the works! 👀
  
 <div align="center">
  
-![](https://github-readme-stats.vercel.app/api?username=kyomi&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117)
+![](https://github-readme-stats.vercel.app/api?username=RaoMicoryn&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117)
  
-![](https://github-readme-streak-stats.herokuapp.com/?user=kyomi&theme=radical&hide_border=true&background=0d1117)
+![](https://github-readme-streak-stats.herokuapp.com/?user=RaoMicoryn&theme=radical&hide_border=true&background=0d1117)
  
 </div>
  
