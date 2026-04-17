@@ -1,0 +1,28 @@
+*, *::before, *::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+:root {
+  --bg: #0f0e13;
+  --card-bg: #1a1825;
+  --card-border: rgba(255, 255, 255, 0.08);
+  --accent: #c9a96e;
+  --accent-glow: rgba(201, 169, 110, 0.25);
+  --text-primary: #f0ece4;
+  --text-secondary: #8a8599;
+  --font-display: 'DM Serif Display', serif;
+  --font-body: 'DM Sans', sans-serif;
+}
+
+body {
+  background-color: var(--bg);
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-family: var(--font-body);
+  color: var(--text-primary);
+  -webkit-font-smoothing: antialiased;
+}
